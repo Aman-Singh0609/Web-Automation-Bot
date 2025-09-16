@@ -74,11 +74,11 @@ This will:
 ---
 
 ### 1. Bot Opening Browser
-![Browser Open](Screenshots/Img1.png)
+![Browser Open](Img1.png)
 
 ### 2. Bot Filling Form
-![Form Filled](Screenshots/Img2.png)
-![Form Filled](Screenshots/Img3.png)
+![Form Filled](Img2.png)
+![Form Filled](Img3.png)
 
 ## 🛠 Troubleshooting
 
@@ -121,5 +121,6 @@ web_automation_bot/
 ```
 
 ---
+
 
 ✨ You’re now ready to run your automation bot!
